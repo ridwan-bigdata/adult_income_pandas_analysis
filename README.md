@@ -26,3 +26,6 @@ This project performs exploratory data analysis on the Adult Income dataset usin
 ## Dataset
 
 Adult Income dataset.
+
+## Project Status
+Initial exploratory data analysis completed.
